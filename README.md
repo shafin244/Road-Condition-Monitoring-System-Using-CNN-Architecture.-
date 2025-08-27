@@ -7,7 +7,7 @@ classify roads as either in good condition or requiring maintenance, allowing fo
 of resources. 
 # Project Title
 
-[![Watch the video](https://img.youtube.com/vi/Ka_JbuyT6No&t=13s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ka_JbuyT6No&t=13s)
+[![Watch the video](https://img.youtube.com/vi/Ka_JbuyT6No&t=13s/hqdefault.jpg)](https://www.youtube.com/watch?v=Ka_JbuyT6No&t=13s)
 
 <img width="1949" height="1032" alt="image" src="https://github.com/user-attachments/assets/d3b477b9-2d1e-4223-9ba0-f06003eabbdd" />
 
