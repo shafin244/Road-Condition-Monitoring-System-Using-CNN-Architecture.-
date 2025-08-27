@@ -5,6 +5,9 @@ Convolutional Neural Network (CNN) to analyze aerial images captured by surveill
 cities to better plan and prioritize road maintenance activities. The AI model processes these images to 
 classify roads as either in good condition or requiring maintenance, allowing for more efficient allocation 
 of resources. 
+# Project Title
+
+[![Watch the video](https://img.youtube.com/vi/https://www.youtube.com/watch?v=Ka_JbuyT6No&t=13s/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=Ka_JbuyT6No&t=13s)
 
 <img width="1949" height="1032" alt="image" src="https://github.com/user-attachments/assets/d3b477b9-2d1e-4223-9ba0-f06003eabbdd" />
 
