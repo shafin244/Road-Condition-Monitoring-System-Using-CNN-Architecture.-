@@ -1,10 +1,13 @@
-# Road-Condition-Monitoring-System-Using-CNN-Architecture.-
+# Road-Condition-Monitoring-System-Web APP-establishment- using- Python-&- Machine-Learning.
 This research presents an automated system that uses artificial intelligence to monitor road conditions, 
 specifically detecting potholes and water accumulation during rainy seasons. The system employs a 
 Convolutional Neural Network (CNN) to analyze aerial images captured by surveillance drones, enabling 
 cities to better plan and prioritize road maintenance activities. The AI model processes these images to 
 classify roads as either in good condition or requiring maintenance, allowing for more efficient allocation 
 of resources. 
+
+<img width="1949" height="1032" alt="image" src="https://github.com/user-attachments/assets/d3b477b9-2d1e-4223-9ba0-f06003eabbdd" />
+
 Training was conducted on a dataset of 4,200 road images, with validation performed on 900 additional 
 images. The CNN architecture follows a VGG-like structure with five convolutional blocks of increasing 
 filter sizes (32→64→128→256→512), each followed by max pooling operations. The network includes 
